@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-	    byte aByte = 127;
+        byte aByte = 127;
     	short aShort = 2020;
     	int aInt = -120;
         long aLong = 9876543210L;
